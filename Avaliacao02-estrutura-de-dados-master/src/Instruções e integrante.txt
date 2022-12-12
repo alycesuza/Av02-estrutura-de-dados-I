@@ -1,0 +1,15 @@
+// Alunos:
+// Alyce Fernandes Silva
+// Anderson Félix de Araújo Júnior
+
+// Instruções da atividade :
+
+// 1. Crie um programa que gerencie uma FILA de TAREFAS a serem cumpridas .
+
+// As tarefas são objetos que contém uma String que descreve uma ação fictícia a ser executada.
+// O usuário deverá ter duas opções:
+// Inserir tarefa na fila;
+// Remover tarefa da fila;
+// Obter a próxima tarefa da fila
+
+// 2. Repita o exercício 1 usando FILA COM PRIORIDADE.
